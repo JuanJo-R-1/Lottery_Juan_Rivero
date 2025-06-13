@@ -1,0 +1,64 @@
+{
+    "Bad": {
+        "password": "Admin0001",
+        "role": "admin",
+        "code": "8228"
+    },
+    "Juan Rivero": {
+        "role": "user",
+        "code": "6387"
+    },
+    "Danna Rivero": {
+        "role": "user",
+        "code": "3290"
+    },
+    "Aleja Camargo": {
+        "role": "user",
+        "code": "3642"
+    },
+    "Lina Camargo": {
+        "role": "user",
+        "code": "5977"
+    },
+    "Harry Rivero": {
+        "role": "user",
+        "code": "3278"
+    },
+    "Pablo Orduz": {
+        "role": "user",
+        "code": "6832"
+    },
+    "Tatiana Villamizar": {
+        "role": "user",
+        "code": "5421"
+    },
+    "Bramdon Blanco": {
+        "role": "user",
+        "code": "1991"
+    },
+    "Cristian Mayorga": {
+        "role": "user",
+        "code": "2088"
+    },
+    "Adrian Bayona": {
+        "role": "user",
+        "code": "3529"
+    },
+    "Diego Cristancho": {
+        "role": "user",
+        "code": "8405"
+    },
+    "Daniel Plazas": {
+        "role": "user",
+        "code": "1518"
+    },
+    "Dayana Winner": {
+        "role": "user",
+        "code": "5850"
+    },
+    "juandiegin": {
+        "role": "user",
+        "code": "8111"
+    },
+    "Juan": "52a6eb687cd22e80d3342eac6fcc7f2e19209e8f83eb9b82e81c6f3e6f30743b"
+}
